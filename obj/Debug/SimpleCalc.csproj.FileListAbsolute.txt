@@ -1,0 +1,222 @@
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\SimpleCalc.dll.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\SimpleCalc.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\SimpleCalc.pdb
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\csc.exe
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\csc.exe.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\csc.rsp
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\csi.exe
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\csi.exe.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\csi.rsp
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.AppContext.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Console.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Net.Http.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\vbc.exe
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\vbc.exe.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\vbc.rsp
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Antlr3.Runtime.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Newtonsoft.Json.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\System.Web.Optimization.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\WebGrease.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\System.Web.Optimization.xml
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Newtonsoft.Json.xml
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Antlr3.Runtime.pdb
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\obj\Debug\SimpleCalc.csproj.CopyComplete
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\obj\Debug\SimpleCalc.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\obj\Debug\SimpleCalc.pdb
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\SimpleCalc.dll.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\SimpleCalc.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\SimpleCalc.pdb
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\csc.exe
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\csc.exe.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\csc.rsp
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\csi.exe
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\csi.exe.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\csi.rsp
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.AppContext.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Console.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Net.Http.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\vbc.exe
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\vbc.exe.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\vbc.rsp
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Antlr3.Runtime.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Newtonsoft.Json.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\System.Web.Optimization.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\WebGrease.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\System.Web.Optimization.xml
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Newtonsoft.Json.xml
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Antlr3.Runtime.pdb
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CopyComplete
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.dll
+C:\Users\Rockreyad\Desktop\Calculator\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\SimpleCalc.dll.config
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\SimpleCalc.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\SimpleCalc.pdb
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\csc.exe
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\csc.exe.config
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\csc.rsp
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\csi.exe
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\csi.exe.config
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\csi.rsp
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.AppContext.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Collections.Immutable.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Console.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Globalization.Calendars.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.IO.Compression.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.IO.FileSystem.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Net.Http.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Net.Sockets.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Reflection.Metadata.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.ValueTuple.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Xml.XPath.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\vbc.exe
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\vbc.exe.config
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\vbc.rsp
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\VBCSCompiler.exe
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\roslyn\VBCSCompiler.exe.config
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Antlr3.Runtime.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\AspNet.ScriptManager.bootstrap.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\AspNet.ScriptManager.jQuery.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Microsoft.Web.Infrastructure.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Newtonsoft.Json.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\System.Web.Optimization.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\WebGrease.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\System.Web.Optimization.xml
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Newtonsoft.Json.xml
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Antlr3.Runtime.pdb
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\obj\Debug\SimpleCalc.csproj.CopyComplete
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\obj\Debug\SimpleCalc.dll
+H:\Porasuna\IUBAT\Summer 2021\CSC 440 Lab\Project\SimpleCalc\obj\Debug\SimpleCalc.pdb
